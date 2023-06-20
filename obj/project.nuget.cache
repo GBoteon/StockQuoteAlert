@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q28Qh7b1G1UWfQzho70orJxGJDQgJKAw7ASSnkJH50VuHnO9kzmZ1rCIaWbmg0G1YuPL7maE6Kkfj50gE+iCig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\source\\repos\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

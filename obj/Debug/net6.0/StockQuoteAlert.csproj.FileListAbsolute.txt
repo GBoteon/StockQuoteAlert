@@ -1,0 +1,17 @@
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\StockQuoteAlert.exe
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\StockQuoteAlert.deps.json
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\StockQuoteAlert.runtimeconfig.json
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\StockQuoteAlert.dll
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\StockQuoteAlert.pdb
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\StockQuoteAlert.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\StockQuoteAlert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\StockQuoteAlert.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\StockQuoteAlert.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\StockQuoteAlert.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\StockQuoteAlert.csproj.CopyComplete
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\StockQuoteAlert.dll
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\refint\StockQuoteAlert.dll
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\StockQuoteAlert.pdb
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\StockQuoteAlert.genruntimeconfig.cache
+C:\Users\Gustavo\source\repos\StockQuoteAlert\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\ref\StockQuoteAlert.dll
