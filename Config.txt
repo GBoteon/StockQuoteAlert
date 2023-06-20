@@ -1,0 +1,5 @@
+EmailDestino=boteongustavo@gmail.com
+SMTPHost=smtp.gmail.com
+SMTPPort=587
+SMTPUsername=boteongustavo@gmail.com
+SMTPPassword=pdctvampnkklnmmo
