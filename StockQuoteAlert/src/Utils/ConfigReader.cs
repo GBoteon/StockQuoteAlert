@@ -6,7 +6,7 @@ namespace StockQuoteAlert.Utils
     {
         public static string ReadSetting(string key)
         {
-            string filePath = "C:\\Users\\Gustavo\\RiderProjects\\StockQuoteAlert\\StockQuoteAlert\\src\\Utils\\config.txt"; // Nome do arquivo de configuração
+            string filePath = "C:\\Users\\Gustavo\\RiderProjects\\StockQuoteAlert\\StockQuoteAlert\\src\\Utils\\config.txt"; // TODO: melhorar importação de configurações 
             string value = string.Empty;
 
             if (File.Exists(filePath))

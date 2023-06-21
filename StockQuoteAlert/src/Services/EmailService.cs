@@ -5,7 +5,7 @@ namespace StockQuoteAlert.Services
 {
     public class EmailService
     {
-        public void SendEmail(string to, string subject, string body, string smtpHost, int smtpPort, string smtpUsername, string smtpPassword)
+        public static void SendEmail(string to, string subject, string body, string smtpHost, int smtpPort, string smtpUsername, string smtpPassword)
         {
             using (var mailMessage = new MailMessage())
             {

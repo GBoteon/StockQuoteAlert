@@ -8,6 +8,7 @@ namespace StockQuoteAlert
     {
         static async Task Main(string[] args)
         {
+
             string symbol = "PETR4";
             decimal entryPrice = 30.43m;
             decimal sellPrice = 30.10m;
@@ -31,7 +32,7 @@ namespace StockQuoteAlert
                 decimal quote = 0.0m;
                 try
                 {
-                    quote = decimal.Parse(globalQuote.Price.Replace('.', ','));
+                    quote = decimal.Parse(globalQuote.Price!.Replace('.', ','));
                 }
                 catch (Exception e)
                 {
@@ -44,13 +45,11 @@ namespace StockQuoteAlert
 
                 if (quote > entryPrice)
                 {
-                    EmailService emailService = new EmailService();
-                    emailService.SendEmail(emailDestino, $"Venda recomendada do symbol {symbol}", $"O preço atual ({quote}) está acima do preço de venda ({entryPrice})", smtpHost, smtpPort, smtpUsername, smtpPassword);
+                    EmailService.SendEmail(emailDestino, $"Venda recomendada do symbol {symbol}", $"O preço atual ({quote}) está acima do preço de venda ({entryPrice})", smtpHost, smtpPort, smtpUsername, smtpPassword);
                 }
                 else if (quote < sellPrice)
                 {
-                    EmailService emailService = new EmailService();
-                    emailService.SendEmail(emailDestino, $"Compra recomendada do symbol {symbol}", $"O preço atual ({quote}) está abaixo do preço de compra ({sellPrice})", smtpHost, smtpPort, smtpUsername, smtpPassword);
+                    EmailService.SendEmail(emailDestino, $"Compra recomendada do symbol {symbol}", $"O preço atual ({quote}) está abaixo do preço de compra ({sellPrice})", smtpHost, smtpPort, smtpUsername, smtpPassword);
                 }
 
                 Thread.Sleep(10000); // Aguardar 10 segundos antes de verificar novamente

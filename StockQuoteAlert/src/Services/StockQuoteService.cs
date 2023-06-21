@@ -16,9 +16,9 @@ namespace StockQuoteAlert.Services
 
                 string responseBody = await response.Content.ReadAsStringAsync();
                 var quoteResponse = JsonConvert.DeserializeObject<QuoteResponse>(responseBody);
-                var globalQuote = quoteResponse.GlobalQuote;
+                var globalQuote = quoteResponse!.GlobalQuote;
 
-                return globalQuote;
+                return globalQuote!;
             }
         }
     }
