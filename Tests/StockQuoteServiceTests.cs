@@ -13,13 +13,14 @@ namespace StockQuoteAlert.Tests
             // Arrange
             string symbol = "PETR4";
             string apiKey = "XQ5KZXVWW72DJEPE";
+            string expectedValue = "PETR4.SA";
 
             // Act
             GlobalQuote globalQuote = StockQuoteService.GetStockQuote(symbol, apiKey).Result;
 
             // Assert
             Assert.IsNotNull(globalQuote);
-            Assert.AreEqual(symbol, globalQuote.Symbol);
+            Assert.AreEqual(expectedValue, globalQuote.Symbol);
         }
     }
 }
