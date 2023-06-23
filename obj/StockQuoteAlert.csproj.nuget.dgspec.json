@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\source\\repos\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert.csproj": {}
+    "C:\\Users\\Gustavo\\RiderProjects\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\source\\repos\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert.csproj": {
+    "C:\\Users\\Gustavo\\RiderProjects\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\source\\repos\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\RiderProjects\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert.csproj",
         "projectName": "StockQuoteAlert",
-        "projectPath": "C:\\Users\\Gustavo\\source\\repos\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\RiderProjects\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\source\\repos\\StockQuoteAlert\\StockQuoteAlert\\StockQuoteAlert\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\RiderProjects\\StockQuoteAlert\\StockQuoteAlert\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -37,9 +37,13 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
