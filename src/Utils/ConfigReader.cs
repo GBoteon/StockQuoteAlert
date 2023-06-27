@@ -4,7 +4,7 @@
     {
         public static string ReadSetting(string key)
         {
-            string filePath = "config.txt"; // TODO: melhorar importação de configurações 
+            string filePath = "config.txt";
             string value = string.Empty;
 
             if (File.Exists(filePath))

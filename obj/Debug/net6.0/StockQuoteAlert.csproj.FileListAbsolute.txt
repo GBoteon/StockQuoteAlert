@@ -21,7 +21,6 @@ C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\
 C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\StockQuoteAlert.dll
 C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\StockQuoteAlert.pdb
 C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\nunit.framework.dll
 C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\StockQuoteAlert.csproj.AssemblyReference.cache
 C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\StockQuoteAlert.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\StockQuoteAlert.AssemblyInfoInputs.cache
@@ -33,3 +32,13 @@ C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\
 C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\StockQuoteAlert.pdb
 C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\StockQuoteAlert.genruntimeconfig.cache
 C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\obj\Debug\net6.0\ref\StockQuoteAlert.dll
+C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\Moq.dll
+C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\xunit.core.dll
+C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Gustavo\RiderProjects\StockQuoteAlert\StockQuoteAlert\bin\Debug\net6.0\nunit.framework.dll

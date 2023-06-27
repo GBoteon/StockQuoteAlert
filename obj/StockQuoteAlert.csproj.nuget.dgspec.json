@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
             "NUnit": {
               "target": "Package",
               "version": "[3.13.3, )"
@@ -47,6 +51,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.0-pre.37, )"
             }
           },
           "imports": [
