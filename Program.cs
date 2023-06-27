@@ -10,13 +10,13 @@ namespace StockQuoteAlert
         {
 
             string symbol = "PETR4";
-            decimal refEntryPrice = 30.43m;
-            decimal refSellPrice = 30.10m;
+            decimal refSellPrice = 40.43m;
+            decimal refEntryPrice = 35.10m;
             if (args.Length == 3)
             {
                 symbol = args[0];
-                refEntryPrice = decimal.Parse(args[1]);
-                refSellPrice = decimal.Parse(args[2]);
+                refSellPrice = decimal.Parse(args[1]);
+                refEntryPrice = decimal.Parse(args[2]);
             }
 
             string emailDestino = ConfigReader.ReadSetting("EmailDestino");
